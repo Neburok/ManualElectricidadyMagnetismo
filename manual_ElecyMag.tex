@@ -1,0 +1,59 @@
+\documentclass[oneside,12pt]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,activeacute]{babel}
+\usepackage{amsmath}
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage{afterpage}
+\usepackage{fancyhdr} 
+\usepackage{titlesec}
+\usepackage{anysize}
+\usepackage{multirow}
+
+\usepackage{bbding}
+\usepackage[dvipsnames,usenames]{color}
+\usepackage{cancel}
+
+\parindent 0em
+\parskip 2ex   
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[RO]{\thepage} 
+\renewcommand{\chaptermark}[1]{\markboth{\textit{\thechapter. #1}}{}} 
+\renewcommand{\sectionmark}[1]{\markright{\textit{\thesection. #1}}} 
+\newcommand{\bigrule}{\titlerule[0.5mm]} 
+\titleformat{\chapter}[display]
+{\bfseries\Huge} 
+{% 
+ \titlerule 
+ \filleft
+ \Large\chaptertitlename\
+ \Large\thechapter} 
+{0mm} 
+{\filleft} 
+[\vspace{0.5mm} \bigrule] 
+\titlespacing{\chapter}{0mm}{-75pt}{20pt}
+\linespread{1}
+\papersize{27.94 cm}{21.59 cm}
+\marginsize{3cm}{2.5cm}{2.5cm}{2.5cm}
+\renewcommand{\rmdefault}{phv}
+\renewcommand{\sfdefault}{phv}
+
+\begin{document}  
+
+\renewcommand\chaptername{UNIDAD}   
+\frontmatter
+\include{portada}
+\tableofcontents
+\pagestyle{fancy}
+\include{introduccion}
+ 
+\mainmatter
+
+\include{principios}
+\include{electrocinetica}
+\include{electrostatica}
+\include{magnetismo}
+
+\end{document}
