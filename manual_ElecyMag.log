@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.8)  24 AUG 2020 02:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.8)  25 AUG 2020 22:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -316,12 +316,12 @@ LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
 1.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
-)) [1
+) [1
 
 
 
 
-]
+] [2]) [3]
 \openout2 = `electrocinetica.aux'.
 
 
@@ -342,21 +342,20 @@ LaTeX Info: Redefining \% on input line 9.
 ### simple group (level 1) entered at line 5 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3888 strings out of 481239
- 53047 string characters out of 5920378
+ 3889 strings out of 481239
+ 53055 string characters out of 5920378
  312813 words of memory out of 5000000
- 19057 multiletter control sequences out of 15000+600000
+ 19058 multiletter control sequences out of 15000+600000
  549795 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,10n,45p,370b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,11n,45p,662b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on manual_ElecyMag.pdf (4 pages, 64662 bytes).
+r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on manual_ElecyMag.pdf (6 pages, 61719 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
+ 21 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

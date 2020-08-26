@@ -3,4 +3,4 @@
 \contentsline {chapter}{\numberline {1}Principios de Electricidad y Magnetismo}{1}%
 \contentsline {paragraph}{Objetivo:}{1}%
 \contentsline {paragraph}{Resultado de aprendizaje:}{1}%
-\contentsline {section}{\numberline {1.1}Electricidad y Magnetismo}{1}%
+\contentsline {section}{\numberline {1.1}Reseña Histórica}{1}%
